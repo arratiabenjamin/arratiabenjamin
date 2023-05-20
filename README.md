@@ -1,8 +1,3 @@
-<p align="center"> Bienvenid@ me llamo Benjamin Arratia </p align="center">
-<p align="center"> y </p align="center">
-<p align="center"> Esta es mi historia en Github </p align="center">
-<p align="center">
- 
 </p align="center">
 <!--- Picture --->
 <p align="center">
@@ -18,10 +13,3 @@
 <img src="https://github.com/arratiabenjamin/arratiabenjamin/raw/output/github-contribution-grid-snake.svg" alt="snake-graph" style="max-width: 100%;">
 </p
 <br>
-
-## :exclamation: Disclaimer
-                                                              SOBRE MI
-
-- 👋 Hola, Me llamo @Benjamin Arratia Santibañez
-- 👀 En un futuro me quiero especializar en Machine Learning o Deep Learning
-- 🌱 Por el momento estoy estudiando en la enseñanza media (Chile)
