@@ -42,7 +42,7 @@ Estoy muy Interesado en la creacion IAs, pienso Especializarme en Data Science e
 
 ## Estadisticas:
 <!--- Stat Github --->
-![ArratiaBenjamin GitHub stats](https://github-readme-stats.vercel.app/api?username=arratiabenjamin&theme=shadow_red&bg_color=050505&show_icons=true&rank_icon=github&custom_title=ArratiaBenjamin+Stats)
+![ArratiaBenjamin GitHub stats](https://github-readme-stats.vercel.app/api?username=arratiabenjamin&card_width=200&theme=shadow_red&bg_color=050505&show_icons=true&rank_icon=github&custom_title=ArratiaBenjamin+Stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arratiabenjamin&layout=compact&theme=shadow_red&bg_color=050505&card_width=400&custom_title=ArratiaBenjamin+Lenguages)
 
 <!--- Snake Graph --->
