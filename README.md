@@ -21,10 +21,10 @@ Estoy muy Interesado en la creacion IAs, pienso Especializarme en Data Science e
 [![Static Badge](https://img.shields.io/badge/Express-0c9955?style=for-the-badge&logo=express&logoColor=&labelColor=050505)]()
 [![Static Badge](https://img.shields.io/badge/Ubuntu%2FUbuntu%20Server-d76900?style=for-the-badge&logo=ubuntu&logoColor=&labelColor=050505)]()
 [![Static Badge](https://img.shields.io/badge/JavaScript-d7b400?style=for-the-badge&logo=javascript&logoColor=&labelColor=050505)]()
-[![Static Badge](https://img.shields.io/badge/NeoVim-c40202?style=for-the-badge&logo=neovim&logoColor=&labelColor=050505)]()
+<!--- [![Static Badge](https://img.shields.io/badge/NeoVim-c40202?style=for-the-badge&logo=neovim&logoColor=&labelColor=050505)]() -->
 [![Static Badge](https://img.shields.io/badge/Python-2557a7?style=for-the-badge&logo=python&logoColor=&labelColor=050505)]()
 [![Static Badge](https://img.shields.io/badge/MySql-5484d2?style=for-the-badge&logo=mysql&logoColor=&labelColor=050505)]()
-[![Static Badge](https://img.shields.io/badge/MongoDB-44b242?style=for-the-badge&logo=mongodb&logoColor=&labelColor=050505)]()
+<!--- [![Static Badge](https://img.shields.io/badge/MongoDB-44b242?style=for-the-badge&logo=mongodb&logoColor=&labelColor=050505)]() -->
 [![Static Badge](https://img.shields.io/badge/php-450089?style=for-the-badge&logo=php&logoColor=&labelColor=050505)]()
 
 ## Encuentrame en:
